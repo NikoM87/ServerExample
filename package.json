@@ -1,0 +1,13 @@
+{
+  "name": "server_example",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "sqlite3": "latest"
+  }
+}
